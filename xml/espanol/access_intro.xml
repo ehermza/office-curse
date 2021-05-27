@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<apuntador>
+	<title>[b]Introducción[/b]</title>
+	<txtlibre01>Los [b]campos[/b] constituyen la [b]base[/b] de una [b]tabla[/b], por ello, es preciso poder [b]determinar[/b] el [b]tipo[/b] de [b]valor[/b] correcto que deben de poseer, también a través del formato que podamos aplicarle de acuerdo a nuestros requerimientos.[br][br][b]Veremos[/b] qué es una [b]máscara de entrada[/b] y su relación con el ingreso o introducción de valores en un campo.[br][br]Al final de la unidad tendremos presente la importancia de las reglas de validación dentro de una consulta. Tendremos la posibilidad de [b]personalizar un campo[/b] de acuerdo a nuestros requerimientos.[/b].</txtlibre01>
+</apuntador>

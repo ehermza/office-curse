@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<apuntador>
+	<ptlla type="teoria">
+			<title>Microsoft Word 2010</title>
+			<subtitle>Bienvenida</subtitle>
+			<filename>word_titulo.swf</filename>
+			<texto>word</texto>
+	</ptlla>
+			<ptlla type="teoria">
+			<title>Microsoft Word 2010</title>
+			<subtitle>Introducción</subtitle>
+			<filename>word_u3_intro.swf</filename>
+			<texto>word</texto>
+	</ptlla>
+	<ptlla type="teoria">
+			<title>Microsoft Word 2010</title>
+			<subtitle>Objetivos</subtitle>
+			<filename>word_u3_objetivos.swf</filename>
+			<texto>word</texto>
+	</ptlla>
+			<ptlla type="simulacion">
+			<title>Microsoft Word 2010</title>
+			<subtitle>Simulación: Cómo aplicar estilos de fuentes.</subtitle>
+			<filename>word_u3_estilosfuentes.swf</filename>
+			<texto>word</texto>
+	</ptlla>
+	<ptlla type="teoria">
+			<title>Microsoft Excel 2010</title>
+			<subtitle>Bienvenida</subtitle>
+			<filename>excel_titulo.swf</filename>
+			<texto>excel</texto>
+	</ptlla>
+	<ptlla type="teoria">
+			<title>Microsoft Excel 2010</title>
+			<subtitle>Introducción</subtitle>
+			<filename>excel_u3_intro.swf</filename>
+			<texto>excel</texto>
+	</ptlla>
+	<ptlla type="teoria">
+			<title>Microsoft Excel 2010</title>
+			<subtitle>Objetivos</subtitle>
+			<filename>excel_u3_objetivos.swf</filename>
+			<texto>excel</texto>
+	</ptlla>
+			<ptlla type="simulacion">
+			<title>Microsoft Excel 2010</title>
+			<subtitle>Simulación: Autorrellenar.</subtitle>
+			<filename>excel_autorrellener.swf</filename>
+			<texto>excel</texto>
+	</ptlla>
+	<ptlla type="teoria">
+			<title>Microsoft Access 2010</title>
+			<subtitle>Bienvenida</subtitle>
+			<filename>access_titulo.swf</filename>
+			<texto>access</texto>
+	</ptlla>
+	<ptlla type="teoria">
+			<title>Microsoft Access 2010</title>
+			<subtitle>Introducción</subtitle>
+			<filename>access_intro.swf</filename>
+			<texto>access</texto>
+	</ptlla>
+	<ptlla type="teoria">
+			<title>Microsoft Access 2010</title>
+			<subtitle>Objetivos</subtitle>
+			<filename>access_objetivos.swf</filename>
+			<texto>access</texto>
+	</ptlla>
+	<ptlla type="simulacion">
+			<title>Microsoft Access 2010</title>
+			<subtitle>Simulación: Formato de campo.</subtitle>
+			<filename>access_formatocampo.swf</filename>
+			<texto>access</texto>
+	</ptlla>
+	<ptlla type="teoria">
+			<title>Microsoft Office 2010</title>
+			<subtitle>Actividades: Ejercicio de arrastre</subtitle>
+			<filename>office_arrastre.swf</filename>
+			<texto>actividades</texto>
+	</ptlla>
+	<ptlla type="teoria">
+			<title>Microsoft Office 2010</title>
+			<subtitle>Actividades: Autoevaluación</subtitle>
+			<filename>multchoice.swf</filename>
+			<texto>actividades</texto>
+	</ptlla>
+	<ptlla type="teoria">
+			<title>Microsoft Office 2010</title>
+			<subtitle>Actividades: Unir con flechas</subtitle>
+			<filename>unirflechas.swf</filename>
+			<texto>actividades</texto>
+	</ptlla>
+</apuntador>

@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<simulacion>
+	<tline01>Hacer doble clic en la etiqueta [b]Clientes[/b]</tline01>	<tline02>Seleccionar el campo: [b]Fecha Nacimiento[/b]</tline02>	<tline03>Elija la opción: [b]Ver[/b] ubicada en la ficha de [b]Inicio[/b]</tline03>	<tline04>Cambiar la vista actual por: [b]Vista Diseño[/b]</tline04>	<tline05>Modificar el formato o [b]tipo de dato [/b]del campo seleccionado.</tline05>	<tline06>Cambiar el formato del campo seleccionado al nuevo formato: [b]Fecha Mediana[/b]</tline06>	<tline07>Cambiar la vista de la tabla de datos actual.</tline07>	<tline08>Si desea guardar los cambios deberás confirmar la pregunta respondiendo [b]Sí[/b]</tline08></simulacion>

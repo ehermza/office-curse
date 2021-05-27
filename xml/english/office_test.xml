@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<mchoice>
+	<title>Evaluación</title>
+	<intro>A continuación te presentamos 10 cuestiones con 3 opciones de respuesta. Sólo una de las opciones es correcta. </intro>
+	<rptas>1,2,3,2,1,2</rptas>
+	<totaloptions>3,3,3,3,3,3</totaloptions>
+	
+	<pregunta01>
+		<question>La zona del pantalán en una planta de regasificación está incluida en el:</question>
+		<opciones>a) Área de operaciones| b) Área de mantenimiento|c) Área de prevención</opciones>	
+	</pregunta01>	
+	
+	<pregunta02>
+		<question>España cuenta con un yacimiento submarino de gas, que es el de:</question>
+		<opciones>a|b|c</opciones>
+	</pregunta02>
+	
+	<pregunta03>
+		<question03>¿Cómo se realiza la conexión entre las diferentes formas de distribución?</question03>
+		<opciones>a|b|c</opciones>
+	</pregunta03>
+		
+	<pregunta04>
+		<question04>Al extraerlo del almacenamiento subterráneo, el gas se odoriza</question04>
+		<opciones>a|b|c</opciones>
+	</pregunta04>
+		
+	<pregunta05>
+		<question05>¿En qué lugar de la planta de regasificación encontrarás los cromatógrafos?</question05>
+		<opciones>a|b|c</opciones>
+	</pregunta05>
+
+	<pregunta06>
+		<question06>cromatógrafos?</question06>
+		<opciones>a|b|c</opciones>
+	</pregunta06>
+	
+	<fbincorrecto>mal!</fbincorrecto>
+	<fbcorrecto>bien!<fbcorrecto>
+</mchoice>

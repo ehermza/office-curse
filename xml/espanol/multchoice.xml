@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+
+
+<mchoice>
+
+	<title>[b]Evaluación[/b]</title>
+
+	<intro>A continuación te presentaremos [b]4 preguntas[/b] con [b]3 opciones[/b] de respuesta cada una. Sólo una de las opciones es correcta.[br][br][b]Lee[/b] atentamente cada pregunta y [b]elige[/b] la [b]respuesta[/b] que consideres correcta. Para superar la prueba [b]no puedes fallar más de 1[/b] pregunta.[br][br][br][br]Para comenzar haz click en [b]Avanzar[/b].</intro>
+
+	<rptas>1,2,3,1</rptas>
+
+	<totaloptions>3,3,3,3</totaloptions>
+
+	
+
+	<pregunta01>
+
+		<question>[b]¿Cuál de los siguientes programas es un procesador de textos informáticos?[/b]</question>
+
+		<opciones>a) Word |b) Excel|c) Access</opciones>	
+
+	</pregunta01>	
+
+	
+
+	<pregunta02>
+
+		<question>[b]¿Qué programa nos permite trabajar con fórmulas que incluyen funciones financieras y lógicas?[/b]</question>
+
+		<opciones>a) Word |b) Excel|c) Access</opciones>
+
+	</pregunta02>
+
+	
+
+	<pregunta03>
+
+		<question03>[b]¿Cuál de los siguientes programas está destinado a la gestión de base de datos?[/b]</question03>
+
+		<opciones>a) Word |b) Excel|c) Access</opciones>
+
+	</pregunta03>
+
+		
+
+	<pregunta04>
+
+		<question04>[b]¿Con cuál de los siguientes programas redactarías un informe?[/b]</question04>
+
+		<opciones>a) Word |b) Excel|c) Access</opciones>
+
+	</pregunta04>
+	
+
+	<fbincorrecto>¡Has cometido demasiados errores! No has superado la autoevaluación.</fbincorrecto>
+
+	<fbcorrecto>¡Felicitaciones! Has superado la autoevaluación.<fbcorrecto>
+
+</mchoice>

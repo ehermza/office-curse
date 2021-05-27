@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<mchoice>
+
+	<title>Actividad: Ejercicio de arrastre</title>
+	
+	<intro>Arrastra cada término a la definición que le corresponda:</intro>
+
+	<respuestas>1,2,3</respuestas>
+
+	<botones>Comprobar,Reinicar,Resultados</botones>
+	
+	<palabras>[b]Microsoft Word[/b],[b]Microsoft Access[/b],[b]Microsoft Excel[/b]</palabras>
+
+	<atributos>La zona del pantalán en una planta de regasificación está incluida en el:</atributos>
+
+	<msjacierto>¡Muy bien! Has arrastrado perfectamente cada termino a su definición correspondiente.</msjacierto>	
+
+	<msj1erfallo>Has cometido algún error. Tienes otra oportunidad. Haz un esfuerzo y vuelve a responder.</msj1erfallo>
+
+	<msj2dofallo>¡Haz fallado!. Observa la solución.</msj2dofallo>
+
+	<enunciado01>[b]1.[/b]............................. : es un software destinado al procesamiento de textos.</enunciado01>
+
+	<enunciado02>[b]2.[/b]............................. : es un software destinado a la gestión de bases de datos relacionales para los sistemas operativos Microsoft Windows.</enunciado02>
+
+	<enunciado03>[b]3.[/b]............................. : es un software destinado al manejo de hojas de cálculo.</enunciado03>
+	
+</mchoice>
